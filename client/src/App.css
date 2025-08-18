@@ -21,6 +21,7 @@ body {
   background-color: var(--muted-color-100);
 }
 
+
 .app-wrapper {
   display: flex;
   flex-direction: column;
